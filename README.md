@@ -1,6 +1,8 @@
 # merge-demo
 Demo of collaboration
 
-Line1 p1  
-Line2 p2  
-Line3 p3  
+
+Line1 a1  
+Line2 a2  
+Line3 a3  
+
